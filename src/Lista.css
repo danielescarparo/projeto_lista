@@ -1,0 +1,7 @@
+.listar-todos{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    font-family: helveticaneue;
+    color: #ffffff;
+  }
